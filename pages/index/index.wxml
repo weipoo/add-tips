@@ -1,0 +1,8 @@
+<!--index.wxml-->
+<add-tips></add-tips>
+<view class="content">
+    <text>关闭提示后需要清除缓存才能重现</text>
+    <view>（缓存一个月,可自行修改缓存时间）</view>
+</view>
+
+
